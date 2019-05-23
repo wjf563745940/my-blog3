@@ -6,7 +6,7 @@
         my-blog3 adsad
       </h1>
       <h2 class="subtitle">
-        My outstanding Nuxt.js project
+        My outstanding Nuxt.js project11111
       </h2>
       <div class="links">
         <a
