@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        my-blog3
+        my-blog3 adsad
       </h1>
       <h2 class="subtitle">
         My outstanding Nuxt.js project
